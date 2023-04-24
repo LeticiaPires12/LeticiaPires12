@@ -41,7 +41,7 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
+<a href="https://github.com/LeticiaPires12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
 </a>
 
@@ -49,6 +49,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Letícia Pires](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-pires-de-souza-5a1031203/)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leticiapiress1@outlook.com)](mailto:SEU-EMAIL)
+[![Linkedin: Letícia Pires](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/leticia-pires-de-souza-5a1031203/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:leticiapiress1@outlook.com)
 [![GitHub Letícia Pires]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/LeticiaPires12)
