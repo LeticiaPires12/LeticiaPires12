@@ -40,12 +40,10 @@
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
-
-
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Letícia Pires](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/leticia-pires-de-souza-5a1031203/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:leticiapiress1@outlook.com)
+[![Linkedin: Letícia Pires](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/leticia-pires-de-souza-5a1031203/))](https://www.linkedin.com/in/leticia-pires-de-souza-5a1031203/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leticiapiress1@outlook.com)](mailto:leticiapiress1@outlook.com)
 [![GitHub Letícia Pires]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/LeticiaPires12)
